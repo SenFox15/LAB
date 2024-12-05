@@ -1,0 +1,15 @@
+/home/rubashko/.cache/obexd
+/home/rubashko/.sudo_as_admin_successful
+/home/rubashko/Desktop
+/home/rubashko/structure/hard_links
+/home/rubashko/.gnupg/private-keys-v1.d
+/home/rubashko/Videos
+/home/rubashko/.mozilla/extensions
+/home/rubashko/Templates
+/home/rubashko/.curlr
+/home/rubashko/Music
+/home/rubashko/.vscode/cli
+/home/rubashko/Public
+/home/rubashko/.config/goa-1.0
+/home/rubashko/.config/xviewer
+/home/rubashko/.ICEauthority

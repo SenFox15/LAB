@@ -1,0 +1,3 @@
+total 4
+1074596 drwxrwxr-x 2 rubashko rubashko 4096 Nov  6 17:07 files
+1071038 -rw-rw-r-- 1 rubashko rubashko    0 Nov  6 16:45 otchet.md
